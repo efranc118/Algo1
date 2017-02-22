@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="checkstyle-6.1-all">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/algs4/checkstyle-6.1/checkstyle-6.1-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
